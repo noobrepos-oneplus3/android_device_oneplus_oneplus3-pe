@@ -208,6 +208,7 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(PLATFORM_PATH)
 
 # Shims
 TARGET_LD_SHIM_LIBS := \
+    /system/vendor/lib/libmms_hal_vstab.so|libmms_hal_vstab_shim.so \
     /system/lib/libui.so|libui_shim.so \
     /system/lib64/libui.so|libui_shim.so \
     /system/product/lib64/libdpmframework.so|libcutils_shim.so
