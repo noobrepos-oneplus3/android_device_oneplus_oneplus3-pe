@@ -28,6 +28,6 @@ cc_binary {
         "libbase",
         "libhidlbase",
         "libutils",
-        "vendor.lineage.touch@1.0",
+        //"vendor.lineage.touch@1.0",
     ],
 }
