@@ -13,6 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+/*
 cc_binary {
     name: "vendor.lineage.touch@1.0-service.oneplus3",
     init_rc: ["vendor.lineage.touch@1.0-service.oneplus3.rc"],
@@ -31,3 +32,4 @@ cc_binary {
         //"vendor.lineage.touch@1.0",
     ],
 }
+*/
